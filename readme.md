@@ -14,7 +14,7 @@ https://www.korg.com/jp/products/computergear/nanopad2/
 2. Open `Dialogs` > `MIDI Device Mapper`.
 4. Set nanoPAD2 in the `In Device` field. nanoPAD2 does not have a MIDI Map by default, so create one or select "none".
 
-* Scene switching is not supported.
+NOTE: Scene switching is not supported.
 
 ![ss5](https://github.com/hisahayashi/TD-nanoPAD2/assets/1713215/ce3e64d8-2671-4f7b-a82b-5ed88b5c10c2)
 
