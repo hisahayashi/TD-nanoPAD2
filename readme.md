@@ -1,4 +1,4 @@
-# TD-nanoKONTROL2
+# TD-nanoPAD2
 
 nanoPAD2
 https://www.korg.com/jp/products/computergear/nanopad2/
